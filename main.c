@@ -1,4 +1,4 @@
-#include "./packs/bookList.h"
+#include "include/bookList.h"
 
 int main(){
     lista *list = create_list();
